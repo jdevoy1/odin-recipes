@@ -1,3 +1,3 @@
-This is a basic recipe website used to practice basic HTML skills. It contains recipes for Mac and Cheese, Baked Chicken Thighs, and a Loaded Breakfast Skillet, with a description, list of ingredients, and cooking steps. 
+This is a basic recipe website used to practice basic HTML and CSS skills. It contains recipes for Mac and Cheese, Baked Chicken Thighs, and a Loaded Breakfast Skillet, with a description, list of ingredients, and cooking steps. 
 
-It demonstrates proper use of headers, image tags, and ordered and unordered lists to organize webpages and ensure that they are readable.
+It demonstrates proper use of headers, image tags, and ordered and unordered lists to organize webpages and ensure that they are readable. It also adds basic style elements, such as an aqua background, sans-serif font family, and center alignment for homepage text.

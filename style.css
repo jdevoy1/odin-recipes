@@ -1,0 +1,14 @@
+* {
+    font-family: Arial, sans-serif;
+    background-color: aqua;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+.homepage{
+    text-align: center;
+    list-style: none;
+}
